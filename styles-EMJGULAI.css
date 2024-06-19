@@ -1,0 +1,1 @@
+html,body{margin:0;width:100vw;height:100vh;overflow:hidden}.section-title{color:#daa520;border-bottom:3px solid orangered;padding-bottom:.25em;margin-block:.25em;display:inline-block}.section-title+*{margin-top:1em}[class*=anim]{transition:all 1s ease-in-out;transform:translate(-100%);opacity:0%}[class*=anim].show{transform:translate(0);opacity:100%}
