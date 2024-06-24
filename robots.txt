@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bm9999nd.github.io/portfolio/sitemap.xml
