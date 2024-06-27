@@ -1,0 +1,105 @@
+{
+  "configVersion": 1,
+  "timestamp": 1719453891297,
+  "index": "https://bm9999nd.github.io/portfolio/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://bm9999nd.github.io/portfolio/chunk-7QN6R7RQ.js",
+        "https://bm9999nd.github.io/portfolio/chunk-A3K6WFO2.js",
+        "https://bm9999nd.github.io/portfolio/chunk-ADRTKDRD.js",
+        "https://bm9999nd.github.io/portfolio/chunk-DRL3JYNI.js",
+        "https://bm9999nd.github.io/portfolio/chunk-GZGSDO4X.js",
+        "https://bm9999nd.github.io/portfolio/chunk-KQENJYJD.js",
+        "https://bm9999nd.github.io/portfolio/chunk-S6ZWT4X2.js",
+        "https://bm9999nd.github.io/portfolio/chunk-SQUVDV5N.js",
+        "https://bm9999nd.github.io/portfolio/chunk-TPTUZ5G5.js",
+        "https://bm9999nd.github.io/portfolio/favicon.ico",
+        "https://bm9999nd.github.io/portfolio/index.html",
+        "https://bm9999nd.github.io/portfolio/main-4GW5QFUP.js",
+        "https://bm9999nd.github.io/portfolio/manifest.webmanifest",
+        "https://bm9999nd.github.io/portfolio/polyfills-6EAL64PA.js",
+        "https://bm9999nd.github.io/portfolio/styles-L35I4OJL.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://bm9999nd.github.io/portfolio/assets/1708105683281.jpeg",
+        "https://bm9999nd.github.io/portfolio/assets/cash-web.jpg",
+        "https://bm9999nd.github.io/portfolio/assets/icons/icon-128x128.png",
+        "https://bm9999nd.github.io/portfolio/assets/icons/icon-144x144.png",
+        "https://bm9999nd.github.io/portfolio/assets/icons/icon-152x152.png",
+        "https://bm9999nd.github.io/portfolio/assets/icons/icon-192x192.png",
+        "https://bm9999nd.github.io/portfolio/assets/icons/icon-384x384.png",
+        "https://bm9999nd.github.io/portfolio/assets/icons/icon-512x512.png",
+        "https://bm9999nd.github.io/portfolio/assets/icons/icon-72x72.png",
+        "https://bm9999nd.github.io/portfolio/assets/icons/icon-96x96.png",
+        "https://bm9999nd.github.io/portfolio/assets/mobile-web.png",
+        "https://bm9999nd.github.io/portfolio/assets/slash-tag.ico"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://bm9999nd.github.io/portfolio/assets/1708105683281.jpeg": "26f0bd0599f5d24552e52b03508d34d123b9a1bc",
+    "https://bm9999nd.github.io/portfolio/assets/cash-web.jpg": "a4955991ad04e97777fbf3c7bebac4d3b9865cb4",
+    "https://bm9999nd.github.io/portfolio/assets/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "https://bm9999nd.github.io/portfolio/assets/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "https://bm9999nd.github.io/portfolio/assets/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "https://bm9999nd.github.io/portfolio/assets/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "https://bm9999nd.github.io/portfolio/assets/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "https://bm9999nd.github.io/portfolio/assets/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "https://bm9999nd.github.io/portfolio/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "https://bm9999nd.github.io/portfolio/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "https://bm9999nd.github.io/portfolio/assets/mobile-web.png": "c655b3ddb6afe73e0091750a9200c7c261cd863a",
+    "https://bm9999nd.github.io/portfolio/assets/slash-tag.ico": "0a5845d4b012562a68f30e87f3cb8f5ebeddae32",
+    "https://bm9999nd.github.io/portfolio/chunk-7QN6R7RQ.js": "cba03e593d25a58837072b9722d43a1fc4be9588",
+    "https://bm9999nd.github.io/portfolio/chunk-A3K6WFO2.js": "72504fe8ae7c577f04125a92edb22567541656bb",
+    "https://bm9999nd.github.io/portfolio/chunk-ADRTKDRD.js": "b0a60bf796ab7c3f0ee4b05ab055a445090e4040",
+    "https://bm9999nd.github.io/portfolio/chunk-DRL3JYNI.js": "5523d664489e039d0e247f0901570f7de31e0cfe",
+    "https://bm9999nd.github.io/portfolio/chunk-GZGSDO4X.js": "3b85d72677cb6df106e463bae41bbb9244b01d6e",
+    "https://bm9999nd.github.io/portfolio/chunk-KQENJYJD.js": "5b6eb54722fa19f965a5f7ce6dfecdb09fbf2bc9",
+    "https://bm9999nd.github.io/portfolio/chunk-S6ZWT4X2.js": "35c73e6dc03dab199abea8a14ee958649966af9b",
+    "https://bm9999nd.github.io/portfolio/chunk-SQUVDV5N.js": "b58203979dc34e6329d7cdc4dbb0d65a6cf78f7d",
+    "https://bm9999nd.github.io/portfolio/chunk-TPTUZ5G5.js": "e5a69a87b640ba2da8a04eb37860424f8e5cdf86",
+    "https://bm9999nd.github.io/portfolio/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "https://bm9999nd.github.io/portfolio/index.html": "be2dda51a07b55a6d066bd4f055e372dcdc58bdf",
+    "https://bm9999nd.github.io/portfolio/main-4GW5QFUP.js": "193b03e253ff58702e4ceb40150789f8d114f07a",
+    "https://bm9999nd.github.io/portfolio/manifest.webmanifest": "d72a611faaeb3877c4e91141d35331486d7d4e16",
+    "https://bm9999nd.github.io/portfolio/polyfills-6EAL64PA.js": "d874147a12a6570d9b44e99935e9de8b7f3cabbc",
+    "https://bm9999nd.github.io/portfolio/styles-L35I4OJL.css": "6908c815b59bd21a5ffd18f81fcf5ed13dc47200"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
