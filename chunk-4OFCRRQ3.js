@@ -1,0 +1,1 @@
+import{$ as o,Bb as p,db as a,eb as r,wb as i}from"./chunk-RKFLU5LM.js";var d=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=o({type:e,selectors:[["app-compare"]],standalone:!0,features:[p],decls:2,vars:0,template:function(n,c){n&1&&(a(0,"p"),i(1,"compare works!"),r())}});let t=e;return t})();export{d as CompareComponent};
